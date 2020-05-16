@@ -1,0 +1,26 @@
+{
+  "name": "weblog",
+  "version": "1.0.0",
+  "description": "website + blog for every GitHub user 🐧",
+  "main": "index.js",
+  "scripts": {
+    "start": "gatsby develop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nisarhassan12/weblog.git"
+  },
+  "author": "nisarhassan12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nisarhassan12/weblog/issues"
+  },
+  "homepage": "https://github.com/nisarhassan12/weblog#readme",
+  "dependencies": {
+    "gatsby": "^2.21.33",
+    "gatsby-plugin-typescript": "^2.4.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
